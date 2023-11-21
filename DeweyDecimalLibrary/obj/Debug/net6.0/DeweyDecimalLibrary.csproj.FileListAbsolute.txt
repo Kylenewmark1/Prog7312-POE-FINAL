@@ -1,0 +1,36 @@
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.deps.json
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.pdb
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.AssemblyInfo.cs
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\refint\DeweyDecimalLibrary.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.pdb
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\DeweyDecimalLibrary\obj\Debug\net6.0\ref\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.deps.json
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.pdb
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\refint\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.pdb
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\ref\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.deps.json
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\bin\Debug\net6.0\DeweyDecimalLibrary.pdb
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\refint\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\DeweyDecimalLibrary.pdb
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\DeweyDecimalLibrary\obj\Debug\net6.0\ref\DeweyDecimalLibrary.dll

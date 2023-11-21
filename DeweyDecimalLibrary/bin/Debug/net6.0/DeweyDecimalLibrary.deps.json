@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeweyDecimalLibrary/1.0.0": {
+        "runtime": {
+          "DeweyDecimalLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeweyDecimalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
