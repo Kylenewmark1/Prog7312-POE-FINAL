@@ -1,0 +1,79 @@
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.exe
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.deps.json
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.runtimeconfig.json
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.pdb
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\DeweyDecimalLibrary.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\bin\Debug\net6.0-windows\DeweyDecimalLibrary.pdb
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.IdentifyingAreas.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.frmSortingCallNumbers.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.frmDifficultyLevel.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Leaderboard.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.ScoreAndDetails.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Home.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Properties.Resources.resources
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.AssemblyInfo.cs
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.CopyComplete
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\refint\Dewey_Decimal_System.dll
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.pdb
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.genruntimeconfig.cache
+C:\Users\User\Downloads\Dewey-Decimal-System-master (1)\Dewey-Decimal-System-master\Dewey_Decimal_System\obj\Debug\net6.0-windows\ref\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.exe
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.deps.json
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.pdb
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\DeweyDecimalLibrary.pdb
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.IdentifyingAreas.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.frmSortingCallNumbers.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.frmDifficultyLevel.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Leaderboard.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.ScoreAndDetails.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Home.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\refint\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.pdb
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\PROG712_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\ref\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.exe
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.deps.json
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\Dewey_Decimal_System.pdb
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\DeweyDecimalLibrary.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\bin\Debug\net6.0-windows\DeweyDecimalLibrary.pdb
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Games.FindingCallNumbers.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.IdentifyingAreas.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.frmSortingCallNumbers.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.frmDifficultyLevel.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Leaderboard.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.ScoreAndDetails.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Home.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\refint\Dewey_Decimal_System.dll
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.pdb
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\Dewey_Decimal_System.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\PROG7312_POE_PART2_Kyle_Newmark\Dewey_Decimal_System\obj\Debug\net6.0-windows\ref\Dewey_Decimal_System.dll
