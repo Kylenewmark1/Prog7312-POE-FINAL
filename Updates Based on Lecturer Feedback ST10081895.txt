@@ -1,0 +1,76 @@
+# Updates Based on Lecturer Feedback
+
+## Part 1 Feedback:
+
+### Code Structure and Readability
+- Reduced deep nesting in the code for better readability.
+- Improved naming conventions for classes, methods, and variables.
+- Enhanced commenting for better code documentation and maintainability.
+
+### User Experience
+- Introduced more engaging and fun elements to the games.
+- Focused on making the application more visually appealing.
+
+## Part 2 Feedback:
+
+### Code Quality and Best Practices
+- Implemented consistent commenting for all methods.
+- Addressed issues related to exception handling (open catch, throws unmanaged).
+- Applied proper naming conventions for classes and user controls.
+- Improved the use of the 'var' keyword for variable declarations.
+- Ensured the application exits correctly on close.
+
+### Game Design and Engagement
+- Enhanced the games to be more dynamic and less basic.
+- Improved the overall user interface to be more interactive and enjoyable.
+
+## General Improvements (Part 1 and Part 2):
+
+### Code Refactoring
+- Refactored code to improve overall code quality and maintainability.
+
+### User Interface
+- Worked on making the application more visually appealing and user-friendly.
+
+### Exiting Application
+- Implemented a fix to ensure the application exits correctly upon closure.
+
+## Additional Feedback (Part 3):
+
+### Game Updates
+- Enabled the Identifying areas task for the educational games.
+- Implemented a user interface for matching call numbers and descriptions.
+- Allowed users to answer as many questions as they want to.
+- Alternated questions between matching descriptions to call numbers and call numbers to descriptions.
+- Added randomness to the selection of items in the columns.
+- Implemented a gamification feature to motivate users.
+
+### Technical Requirements
+- Stored call numbers and their descriptions in a dictionary for efficient data management.
+
+## Areas for Future Improvement:
+
+### Code Optimization
+- Continue optimizing code for better performance, especially in resource-intensive operations.
+
+### Advanced Gamification
+- Explore more advanced gamification features to enhance user engagement and motivation.
+
+### Additional Educational Content
+- Expand the educational content to cover a broader range of topics within the Dewey Decimal Classification system.
+
+### User Feedback Integration
+- Implement a user feedback system to gather insights for continuous improvement.
+
+### Accessibility
+- Ensure the application is accessible to users with disabilities, meeting universal design standards.
+
+### Cross-Platform Compatibility
+- Consider making the application compatible with a wider range of platforms for increased accessibility.
+
+### Continuous Testing
+- Implement continuous testing practices to identify and address any potential bugs or issues promptly.
+
+## Summary:
+
+While significant improvements have been made, there are always opportunities for enhancement. The areas mentioned above provide a roadmap for future iterations, focusing on code optimization, advanced features, educational content expansion, user feedback integration, accessibility, and cross-platform compatibility.
